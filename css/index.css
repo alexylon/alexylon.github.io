@@ -8,6 +8,16 @@
     justify-content: space-between;
 }
 
+.career-list {
+    list-style-type: none;
+    max-width: 550px;
+}
+
+.career-list li {
+    display: flex;
+    justify-content: space-between;
+}
+
 .nav-links {
     display: flex;
     justify-content: space-between;
@@ -19,7 +29,7 @@
 
 #about-me img {
     float: left;
-    height: 120px;
+    height: 100px;
     margin-right: 20px;
     margin-top: 5px;
     margin-bottom: 10px;
