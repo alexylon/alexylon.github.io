@@ -1,0 +1,35 @@
+.skill-list {
+    list-style-type: none;
+    max-width: 300px;
+}
+
+.skill-list li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links span {
+    margin: 0 5px;
+}
+
+#about-me img {
+    float: left;
+    height: 120px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-bottom: -20px !important;
+}
+
+h3 {
+    margin-top: 40px;
+    margin-bottom: 10px !important;
+}

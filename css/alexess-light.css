@@ -1,0 +1,21 @@
+body {
+    background: #fbf1c7;
+    color: #3c3836;
+}
+
+code pre {
+    background-color: #f9f5d7;
+    color: #3F612D;
+    padding: 1em;
+    border: 0;
+}
+
+a, a:active, a:visited {
+    color: #0E6BA8;
+    cursor: pointer;
+}
+
+::selection {
+    background: #BCD3F2;
+}
+
